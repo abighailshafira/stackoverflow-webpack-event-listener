@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "sourceRoot": "src",
+        "outDir": "out",
+        "allowJs": true,
+        "lib": [
+            "DOM",
+            "ESNext"
+        ],
+        "target": "ES5",
+        "declaration": true,
+        "sourceMap": true,
+        "allowUmdGlobalAccess": true
+    },
+}
